@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.18; //stating solidity verion
+pragma solidity ^0.8.25; //stating solidity verion
 
 contract SimpleStorage{
     // favoriteNumber will initialize to zero
